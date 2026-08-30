@@ -1,4 +1,5 @@
 {
+	"all": true,
 	"exclude": [
 		"packages/*/vendor",
 		"packages/*/test",
